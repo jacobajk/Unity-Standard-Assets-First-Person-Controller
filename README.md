@@ -8,4 +8,4 @@ Error message: Assets\Standard Assets\Utility\SimpleActivatorMenu.cs(11,16): err
 
 Change GUI.Text into Text and add using UnityEngine.UI, in the SimpleActivatorMenu Script.
 
-![image](https://user-images.githubusercontent.com/68107482/90315001-6f885100-df4a-11ea-9d4c-45e54078ddc8.png)
+<img src="https://user-images.githubusercontent.com/68107482/90315001-6f885100-df4a-11ea-9d4c-45e54078ddc8.png" width="500" height="500" />
