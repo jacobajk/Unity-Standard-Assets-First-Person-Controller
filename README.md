@@ -1,1 +1,1 @@
-Unity First Person Controller Updated Script for Unity Versions 2017 and above
+Unity Updated SimpleActivatorMenu Script for Unity Versions 2017 and above
